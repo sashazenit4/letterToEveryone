@@ -5,4 +5,4 @@ The concept is a WEBSITE where people can find contact details of politicians of
 
 The project can become a tool in the development of world politics, the settlement of peace and the improvement of mutual understanding. The site will also include examples of emails, articles on how to write an email so that the PR department reads it. All emails will be sent anonymously from a private person's smtp server.
 
-Each letter will be in an open database, everyone will be able to download it. Later, it will be possible to subscribe to the letter in order to attract attention to it (re-sending the person every n-signatures)
+Each letter will be in an open database, everyone will be able to download it. Later, it will be possible to sign an open letter in order to attract attention to it (re-sending the person every n-signatures)
